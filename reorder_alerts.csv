@@ -1,0 +1,6 @@
+"product_name","current_stock","reorder_point","inventory_status"
+"Widget A",100,20,"Stock OK"
+"Widget B",50,15,"Stock OK"
+"Gadget X",200,50,"Stock OK"
+"Gadget Y",80,30,"Stock OK"
+"Doohickey",150,40,"Stock OK"
